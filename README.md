@@ -32,4 +32,4 @@ You won't find ~~strikethrough~~ here though.
 2. Easy to read with formatting 
 3. Commonly used for websites and software development 
 4. We ~~don't~~ use it in the Carpentries 
-|[Carepntries Logo]/(https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
+|[Carepntries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
